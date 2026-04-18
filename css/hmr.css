@@ -125,7 +125,7 @@ li{
     padding: 0;
 }
 main{
-    background-image: url(../MEDIA/89787.jpg);
+    background-image: url(../media/89787.jpg);
 }
 section{
     display: flex;
@@ -139,14 +139,14 @@ section{
     margin: 10px;
 }
 .t1{
-    background-image: url(../MEDIA/folleto.png);
+    background-image: url(../media/folleto.png);
     background-repeat: no-repeat;
     background-size: contain;
     height: 170px;
     background-position: center;
 }
 .t2{
-    background-image: url(../MEDIA/cuaderno.png)
+    background-image: url(../media/cuaderno.png)
     ;
      background-repeat: no-repeat;
     background-size: contain;
@@ -154,7 +154,7 @@ section{
     background-position: center;
 }
 .t3{
-    background-image: url(../MEDIA/calendario.PNG);
+    background-image: url(../media/calendario.PNG);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -162,20 +162,20 @@ section{
     height: 250px;
 }
 .t4{
-    background-image: url(../MEDIA/botilo.png);
+    background-image: url(../media/botilo.png);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
     height: 110px;
 }
 .t5{
-    background-image: url(../MEDIA/IMG_8420.JPG);
+    background-image: url(../media/IMG_8420.JPG);
     background-repeat: no-repeat;
     background-size: contain;
     
 }
 .t6{
-background-image: url(../MEDIA/PHOTO-2025-10-18-09-16-21.jpg);
+background-image: url(../media/PHOTO-2025-10-18-09-16-21.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -192,7 +192,7 @@ h2{
 width: 100%;
     display: none;
     flex-wrap: wrap;
-    background-image: url(../MEDIA/89787.jpg);
+    background-image: url(../media/89787.jpg);
    background-repeat: no-repeat;
    background-size: contain;
     position: absolute;
