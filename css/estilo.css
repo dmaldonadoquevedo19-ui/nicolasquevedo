@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+main{
+    background-image: url(../MEDIA/89787.jpg);
+}
+section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.die{
+    width: 230px;
+    height: 250px;
+    
+    margin: 10px;
+}
+.t1{
+    background-image: url(../MEDIA/folleto.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 170px;
+    background-position: center;
+}
+.t2{
+    background-image: url(../MEDIA/cuaderno.png)
+    ;
+     background-repeat: no-repeat;
+    background-size: contain;
+    height: 140px;
+    background-position: center;
+}
+.t3{
+    background-image: url(../MEDIA/calendario.PNG);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    width: 240;
+    height: 250px;
+}
+.t4{
+    background-image: url(../MEDIA/botilo.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 110px;
+}
+.t5{
+    background-image: url(../MEDIA/IMG_8420.JPG);
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
+.t6{
+background-image: url(../MEDIA/PHOTO-2025-10-18-09-16-21.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+h1{
+    color: aliceblue;
+    background-color: black;
+}
+h2{
+    color: aliceblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.descrip{
+width: 100%;
+    display: none;
+    flex-wrap: wrap;
+    background-image: url(../MEDIA/89787.jpg);
+   background-repeat: no-repeat;
+   background-size: contain;
+    position: absolute;
+    left: 0;
+    top: 0;
+
+}
+#desc_t1:target{
+    display: flex;
+}
+#desc_t2:target{
+    display: flex;
+}
+#desc_t3:target{
+    display: flex;
+}
+#desc_t4:target{
+    display: flex;
+}
+#desc_t5:target{
+    display: flex;
+}
+#desc_t6:target{
+    display: flex;
+}
+.nic{
+    width: 600px;
+    height: 600px;
+    
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+
+}
+.tx{
+    width: 360px;
+    background-color: rgb(46, 44, 44);
+    padding-top: 400px;
+    padding-left: 40px;
+
+}
+.tit{color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.sub{color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
