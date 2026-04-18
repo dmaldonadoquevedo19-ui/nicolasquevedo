@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
 }
+h1{color:red;}
 main{
     background-image: url(../media/89787.jpg);
 }
